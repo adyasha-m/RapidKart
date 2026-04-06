@@ -145,22 +145,32 @@ Occasional users generate most orders, making them the biggest growth opportunit
 ### Page 1 — Executive Overview
 - DAU, Revenue, Orders, Conversion
 - Growth trends
+<img width="1308" height="736" alt="Screenshot 2026-04-06 233033" src="https://github.com/user-attachments/assets/ac8888fa-0059-4b3f-9bc6-f98689bc5e9f" />
+
 
 ### Page 2 — Funnel Analysis
 - Funnel conversion
 - Drop-off identification
+<img width="1312" height="740" alt="Screenshot 2026-04-06 233054" src="https://github.com/user-attachments/assets/24297082-ad82-4162-a61e-183c74abfe4f" />
+
 
 ### Page 3 — Retention Analysis
 - Cohort heatmap
 - Retention decay
+<img width="1311" height="739" alt="Screenshot 2026-04-06 233115" src="https://github.com/user-attachments/assets/659e060e-bc11-4599-a41f-12008f0ea212" />
+
 
 ### Page 4 — Delivery vs Conversion
 - Operational impact on conversion
 - Scatter analysis
+<img width="1308" height="736" alt="Screenshot 2026-04-06 233128" src="https://github.com/user-attachments/assets/899f52ef-3523-4978-b17d-34b870ef81d0" />
+
 
 ### Page 5 — User Segmentation
 - Segment distribution
 - Behavior analysis
+<img width="1306" height="729" alt="Screenshot 2026-04-06 233141" src="https://github.com/user-attachments/assets/e9618ba7-c99f-4e5d-9a3c-996f89f8eee6" />
+
 
 ---
 
