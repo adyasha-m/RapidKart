@@ -4,7 +4,7 @@
 
 RapidKart is an end-to-end **product analytics case study** built for a fictional quick commerce platform. The project analyzes user behavior, conversion funnels, retention, operational efficiency, and user segmentation to understand what drives growth and where users drop off.
 
-The project covers the full pipeline: synthetic data generation, validation, Spark-based transformation, Gold-layer analytics tables, and dashboard-driven insights.
+The project covers: synthetic data generation, validation, Spark-based transformation, Gold-layer analytics tables, and dashboard-driven insights.
 
 ---
 
